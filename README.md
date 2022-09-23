@@ -1,15 +1,14 @@
-# reward
-Reward project code
-
 1. This is the Customer Awards Rewards Application .
-2. Implemented with API Standards using :
+
+
+# Implemented with API Standards using :
 	a. Maven Project 
 	b. Swagger for documentation.
 	c. Spring JPA
 	e. lombok for reducing the boiler plate code .
 	f. Test cases using Mockito
 
-3. High Level Design :
+#. High Level Design :
 
      Controller --> Service Interface --> Service implementation --> JPA/CrudRepository 
 
